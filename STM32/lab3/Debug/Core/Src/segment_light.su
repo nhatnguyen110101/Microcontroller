@@ -1,0 +1,4 @@
+segment_light.c:4:6:Hien_Thi	32	static
+segment_light.c:135:6:display7SEG_MODE	16	static
+segment_light.c:144:6:display7SEG_NGANG	16	static
+segment_light.c:153:6:display7SEG_DOC	16	static

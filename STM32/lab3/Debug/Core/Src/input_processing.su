@@ -1,0 +1,4 @@
+input_processing.c:45:6:fsm_for_input_processing	8	static
+input_processing.c:63:6:Selector	8	static
+input_processing.c:250:6:display7SEG_NGANG	24	static
+input_processing.c:264:6:display7SEG_DOC	24	static
